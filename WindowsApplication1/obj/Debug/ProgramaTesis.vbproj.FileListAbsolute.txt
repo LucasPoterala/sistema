@@ -1,0 +1,37 @@
+C:\Users\lucas\onedrive\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\ProgramaTesis.exe.config
+C:\Users\lucas\onedrive\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\ProgramaTesis.exe
+C:\Users\lucas\onedrive\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\ProgramaTesis.pdb
+C:\Users\lucas\onedrive\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\ProgramaTesis.xml
+C:\Users\lucas\onedrive\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\lucas\onedrive\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ProgramaTesis.vbproj.GenerateResource.Cache
+C:\Users\lucas\onedrive\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ProgramaTesis.exe
+C:\Users\lucas\onedrive\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ProgramaTesis.xml
+C:\Users\lucas\onedrive\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ProgramaTesis.pdb
+C:\Users\lucas\onedrive\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.FrmClientes.resources
+C:\Users\lucas\onedrive\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Ingreso.resources
+C:\Users\lucas\OneDrive\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Aplicacion.resources
+C:\Users\lucas\OneDrive\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ProgramaTesis.vbprojResolveAssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Portada.resources
+C:\Users\lucas\OneDrive\Escritorio\sistema\WindowsApplication1\bin\Debug\ProgramaTesis.exe.config
+C:\Users\lucas\OneDrive\Escritorio\sistema\WindowsApplication1\obj\Debug\ProgramaTesis.exe
+C:\Users\lucas\OneDrive\Escritorio\sistema\WindowsApplication1\obj\Debug\ProgramaTesis.xml
+C:\Users\lucas\OneDrive\Escritorio\sistema\WindowsApplication1\obj\Debug\ProgramaTesis.pdb
+C:\Users\lucas\OneDrive\Escritorio\sistema\WindowsApplication1\bin\Debug\ProgramaTesis.exe
+C:\Users\lucas\OneDrive\Escritorio\sistema\WindowsApplication1\bin\Debug\ProgramaTesis.pdb
+C:\Users\lucas\OneDrive\Escritorio\sistema\WindowsApplication1\bin\Debug\ProgramaTesis.xml
+C:\Users\lucas\OneDrive\Escritorio\sistema\WindowsApplication1\obj\Debug\ProgramaTesis.vbprojResolveAssemblyReference.cache
+C:\Users\lucas\OneDrive\Escritorio\sistema\WindowsApplication1\obj\Debug\WindowsApplication1.Aplicacion.resources
+C:\Users\lucas\OneDrive\Escritorio\sistema\WindowsApplication1\obj\Debug\WindowsApplication1.FrmClientes.resources
+C:\Users\lucas\OneDrive\Escritorio\sistema\WindowsApplication1\obj\Debug\WindowsApplication1.Ingreso.resources
+C:\Users\lucas\OneDrive\Escritorio\sistema\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\lucas\OneDrive\Escritorio\sistema\WindowsApplication1\obj\Debug\WindowsApplication1.Portada.resources
+C:\Users\lucas\OneDrive\Escritorio\sistema\WindowsApplication1\obj\Debug\ProgramaTesis.vbproj.GenerateResource.Cache
+F:\sistema\WindowsApplication1\bin\Debug\ProgramaTesis.exe.config
+F:\sistema\WindowsApplication1\obj\Debug\ProgramaTesis.exe
+F:\sistema\WindowsApplication1\obj\Debug\ProgramaTesis.xml
+F:\sistema\WindowsApplication1\obj\Debug\ProgramaTesis.pdb
+C:\Users\lucas\OneDrive\Escritorio\sistema\WindowsApplication1\obj\Debug\WindowsApplication1.Productos.resources
+C:\Users\lucas\OneDrive\Escritorio\sistema\WindowsApplication1\obj\Debug\WindowsApplication1.Ventas.resources
+C:\Users\lucas\OneDrive\Escritorio\sistema\WindowsApplication1\obj\Debug\WindowsApplication1.ListarProductos.resources
+C:\Users\lucas\OneDrive\Escritorio\sistema\WindowsApplication1\obj\Debug\WindowsApplication1.Proveedor.resources
+C:\Users\lucas\OneDrive\Escritorio\sistema\WindowsApplication1\obj\Debug\WindowsApplication1.Imagen.resources
